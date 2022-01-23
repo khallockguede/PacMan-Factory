@@ -12,4 +12,4 @@
 <p> I plan to add a variety of different colored PacMan characters.</p>
 
 ## License Information:
-License information: This is licensed with the [MIT license](https://github.com/khallockguede/Eyes/blob/main/LICENSE). 
+License information: This is licensed with the [MIT license](https://github.com/khallockguede/PacMan-Factory/blob/main/LICENSE). 
